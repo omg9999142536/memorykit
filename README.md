@@ -81,3 +81,10 @@ memory-kit/
 ## License
 
 MIT © 2026 Rui
+
+---
+
+## Related Projects
+
+- **[agentguard-skill](https://github.com/omg9999142536/agentguard-skill)** 🛡️ — Budget fuse for AI agents: local proxy caps paid API spend with hard cutoffs, live cost panel. Same author, same production-tested approach.
+
