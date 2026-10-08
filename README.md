@@ -96,3 +96,11 @@ MIT © 2026 Rui
 - **[agentguard-skill](https://github.com/omg9999142536/agentguard-skill)** 🛡️ — budget fuse for AI agent API spend
 
 *Same author, same production-tested approach: memory, economy, budget — the three organs of a durable agent.*
+
+---
+
+## Support
+
+If this saves you time, consider supporting development:
+
+- [afdian.com/a/3d28com](https://afdian.com/a/3d28com) — Pro license / coffee
