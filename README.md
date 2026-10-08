@@ -88,3 +88,11 @@ MIT © 2026 Rui
 
 - **[agentguard-skill](https://github.com/omg9999142536/agentguard-skill)** 🛡️ — Budget fuse for AI agents: local proxy caps paid API spend with hard cutoffs, live cost panel. Same author, same production-tested approach.
 
+---
+
+## Related Projects
+
+- **[agentwalls](https://github.com/omg9999142536/agentwalls)** 🏛️ — closed-loop economy kernel for AI agents (stake, settle, verify, govern)
+- **[agentguard-skill](https://github.com/omg9999142536/agentguard-skill)** 🛡️ — budget fuse for AI agent API spend
+
+*Same author, same production-tested approach: memory, economy, budget — the three organs of a durable agent.*
